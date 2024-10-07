@@ -7,4 +7,11 @@
 
 ## Data Sources 
 
-#### Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about the company
+#### Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about the company.
+
+### Tools
+
+- Excel. I used excel for data cleaning
+- PowerBI, used in creating reports
+- SQL for data analysis
+- Python for creating report and analysis.
